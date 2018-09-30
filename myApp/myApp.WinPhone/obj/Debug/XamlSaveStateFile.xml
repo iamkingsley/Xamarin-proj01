@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\myapp\myapp\bin\debug\myapp.dll" HashGuid="75b25e6a-3938-1760-ac42-010fb5582d79" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\sqlite-net-pcl.1.5.231\lib\netstandard1.1\sqlite-net.dll" HashGuid="06863d9a-3452-8209-ce19-7b7086b891a7" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\sqlitepclraw.bundle_green.1.1.11\lib\wpa81\sqlitepclraw.batteries_green.dll" HashGuid="39f21040-4875-6272-89df-7d99d9436971" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\sqlitepclraw.bundle_green.1.1.11\lib\wpa81\sqlitepclraw.batteries_v2.dll" HashGuid="2ac16958-7d08-0826-efe2-e0251f98c9e2" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\sqlitepclraw.core.1.1.11\lib\wpa81\sqlitepclraw.core.dll" HashGuid="29d0b4d9-9c81-3f88-368f-24819eabeadb" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\sqlitepclraw.provider.e_sqlite3.wpa81.1.1.11\lib\wpa81\sqlitepclraw.provider.e_sqlite3.dll" HashGuid="d4d2d245-3b30-0535-61c2-f9196827c5ab" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.core.dll" HashGuid="2a418b72-55c1-19a8-a363-4b8c348fbee0" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.dll" HashGuid="bb4040f4-26bb-5883-795e-627e39855666" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="068a3578-03d9-2580-f12e-c531e1d2d71c" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="52b59dd3-49ca-beb7-ea1e-5100cbca4812" />
+    <ReferenceAssembly PathName="c:\users\bernard k. codjoe\documents\visual studio 2015\projects\myapp\packages\xamarin.forms.2.2.0.45\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="39a2c026-b4e0-6e41-04bc-58950ef1ecfd" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

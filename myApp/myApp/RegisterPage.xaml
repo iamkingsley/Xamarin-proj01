@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Register" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="myApp.RegisterPage">
+  
+  <ScrollView>
+  
+    
+      <StackLayout Padding="20">   
+
+        <Label Text="Username"></Label>
+        <Entry x:Name="UserName"></Entry>
+        <Label Text="First Name"></Label>
+        <Entry x:Name="FirstName"></Entry>
+        <Label Text="Last Name"></Label>
+        <Entry x:Name="LastName"></Entry>
+        <Label Text="Password"></Label>
+        <Entry x:Name="Password" IsPassword="True"></Entry>
+        <Label Text="Phone"></Label>
+        <Entry x:Name="Phone" Keyboard="Telephone"></Entry>
+        <Label Text="Region"></Label>
+        <Picker x:Name="regionPicker" Title="Select a region" SelectedIndexChanged="OnSelect">
+        </Picker>
+        <Button Text="Sign Up" TextColor="White" BackgroundColor="#0099FF" Clicked="Register"></Button>
+        <Button Text="Have an account? Login" Clicked="Handle_GoToLogin"></Button>
+  
+    </StackLayout>
+  </ScrollView>
+
+</ContentPage>

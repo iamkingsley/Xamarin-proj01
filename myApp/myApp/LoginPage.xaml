@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Login" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="myApp.LoginPage">
+  
+   <StackLayout Padding="20">
+    <Label Text="Username"></Label>
+    <Entry x:Name="UserName"></Entry>
+    <Label Text="Password"></Label>
+    <Entry x:Name="Password" IsPassword="True"></Entry>
+    <Button Text="Log In" TextColor="White" BackgroundColor="#0066FF"></Button>
+    <Button Text="Create New Account" TextColor="White" Clicked="GoToRegisterPage"></Button>
+  </StackLayout>
+
+</ContentPage>
